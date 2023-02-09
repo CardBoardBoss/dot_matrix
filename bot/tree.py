@@ -5,7 +5,7 @@ from discord.ext import commands
 
 description = '''Dot Matrix helps Team Ludicrous Speed  .'''
 
-TOKEN = 'MTA2OTcyNDkwNzQ1NTM5Mzk5NA.Gm80_D.RwZwCteipKk60PUe6L6otMoIPbGB4bNt7vZgT8'
+TOKEN = ''
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
